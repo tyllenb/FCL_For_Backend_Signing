@@ -1,4 +1,4 @@
-##NFT Boiler Plate
+<h1>NFT Boiler Plate</h1>
 
 **What this document is:**
 
