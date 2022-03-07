@@ -1,4 +1,4 @@
-<h1>NFT Minting with FCL Boiler Plate</h1>
+<h1>FCL for Backend Signing (NFT Minting Example)</h1>
 
 <code>run npm install</code>
 
