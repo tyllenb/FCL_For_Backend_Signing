@@ -1,0 +1,39 @@
+{
+	"emulators": {
+		"default": {
+			"port": 3569,
+			"serviceAccount": "emulator-account"
+		}
+	},
+	"contracts": {
+		"NFTExample": "./contracts/NFTExample.cdc"
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"key": "56d2b99eba45cab201b7c7f51f655df1cb51c1b8fbbce17dc65858994c8173d9"
+		},
+		"testnet-account": {
+			 "address": "ENTER YOUR ADDRESS HERE",
+			 "key": {
+				 "type": "hex",
+				 "index": 0,
+				 "signatureAlgorithm": "ECDSA_secp256k1",
+				 "hashAlgorithm": "SHA3_256",
+				 "privateKey": "ENTER YOUR PRIVATE KEY HERE"
+			 }
+		}
+	},
+	"deployments": {
+		"testnet": {
+			"testnet-account": [
+				"NFTExample"
+			]
+		 }
+	}
+}
