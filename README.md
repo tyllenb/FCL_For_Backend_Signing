@@ -15,7 +15,7 @@ Shoutout to the Jacob Tucker for inspiration on this document. Will be referenci
 [Add more Keys to Account and Loop through keys for transactions](https://www.youtube.com/watch?v=wz__Hwgkzfw)
 
 
-<h3>Documentation on how to implement the boiler plate step by step:</h3>
+<h3>Documentation on how to implement the boiler plate code step by step:</h3>
 
 Check out the link below to see step by step how to implement NFT Minting using FCL and what each piece of code does.
 
