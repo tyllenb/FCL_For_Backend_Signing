@@ -1,4 +1,4 @@
-<h1>NFT Boiler Plate</h1>
+<h1>NFT Minting with FCL Boiler Plate</h1>
 
 **What this document is:**
 
