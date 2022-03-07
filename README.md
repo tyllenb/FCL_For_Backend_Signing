@@ -1,4 +1,4 @@
-##NFT Boiler Plate##
+##NFT Boiler Plate
 
 **What this document is:**
 
