@@ -1,5 +1,7 @@
 <h1>NFT Minting with FCL Boiler Plate</h1>
 
+<code>run npm install</code>
+
 <h3>What this document is:</h3>
 
 This is for developers that have created a smart contract on Flow, deployed it to Testnet and are now ready to use FCL to mint their NFT’s.You can also use this for any transactions that require arguments for a transaction interacting with your smart contract.
