@@ -20,3 +20,5 @@ Shoutout to the Jacob Tucker for inspiration on this document. Will be referenci
 Check out the link below to see step by step how to implement NFT Minting using FCL and what each piece of code does.
 
 https://glen-bergamot-ea7.notion.site/Using-FCL-for-Minting-NFT-s-3113cf31220243b9a318904299be0dfa
+
+Visit this Plaground instance which compliments this repo: https://play.onflow.org/ae8a1fdd-c8bf-4f7c-b1de-40a6e96dc1f3?type=account&id=75cab70a-6ff7-4d50-b553-e1adeeaa4b2e&storage=none
